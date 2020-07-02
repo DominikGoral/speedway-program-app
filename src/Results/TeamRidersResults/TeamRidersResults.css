@@ -1,0 +1,8 @@
+.TeamBox {
+    position: relative;
+    width: 25%;
+    height: 80%;
+    border-radius: 20px;
+    background-color: #495057;
+    display: inline-block;
+}

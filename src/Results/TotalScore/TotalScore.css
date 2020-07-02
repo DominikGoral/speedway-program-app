@@ -1,0 +1,16 @@
+.totalScoreBox {
+    position: relative;
+    width: 20%;
+    height: 60%;
+    margin: 0 5%;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #495057;
+    display: inline-block;
+}
+
+.totalScore {
+    font-size: 700%;
+    color: white;
+}
