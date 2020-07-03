@@ -7,19 +7,18 @@
 
 .ClearButton {
     display: flex;
-    width: 7vh;
-    height: 7vh;
+    width: 5vh;
+    height: 5vh;
     position: relative;
     left: 90%;
-    top: 1vh;
-    border-radius: 30px;
+    top: 2vh;
+    border-radius: 4vh;
     border: 2px solid #bf0603;
     background-color: #bf0603;
     color: white;
     justify-content: center;
     align-items: center;
-    font-size: 150%;
-    transition: .2s linear;
+    transition: .2s ease-in;
 }
 
 .ClearButton:hover {

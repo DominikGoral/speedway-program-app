@@ -1,6 +1,5 @@
 .HeatsBox {
+    position: relative;
     width: 100%;
-    height: 60vh;
-    padding-top: 30vh;
     background-color: #e9ecef;
 }
