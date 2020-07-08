@@ -16,17 +16,19 @@ const heats = props => {
         slidesToScroll: 1
     }
     return(
-        <Slider {...settings}>
-            <div>
-                <Heat />
-            </div>
-            <div>
-                <Heat />
-            </div>
-            <div>
-                <Heat />
-            </div>
-        </Slider>
+        <div className="container">
+            <Slider {...settings}>
+                <div>
+                    <Heat />
+                </div>
+                <div>
+                    <Heat />
+                </div>
+                <div>
+                    <Heat />
+                </div>
+            </Slider>
+        </div>
     )
 }
 

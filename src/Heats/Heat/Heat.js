@@ -4,7 +4,7 @@ import './Heat.css'
 const heat = props => {
     return (
         <div className="HeatBox">
-
+            
         </div>
     )
 }
