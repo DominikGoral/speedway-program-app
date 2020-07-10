@@ -8,10 +8,10 @@ const gate = props => {
                 
             </div>
             <div className="rider">
-                B.Zmarzlik
+                <p>B.Zmarzlik</p>
             </div>
             <div className="riderSubstitution">
-                J.Kołodziej
+                <p>J.Kołodziej</p>
             </div>
             <div className="points">
                 3
